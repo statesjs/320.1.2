@@ -1,7 +1,9 @@
 # RALAB 320.2.1
 
+##Preview
+
 ```
-![Alt text](images/example.png)
+![Preview](./public/preview.jpg)
 ```
 
 ## FILE STRUCTURE
