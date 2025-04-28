@@ -1,0 +1,115 @@
+body {
+  max-width: 1000px;
+  margin: 0 auto;
+  font-family: sans-serif;
+  background-color: #fff;
+  color: #333;
+}
+
+header,
+main,
+footer {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  padding: 0 1rem;
+}
+ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  margin: 0 1rem;
+}
+
+a {
+  text-decoration: none;
+  color: grey;
+  font-size: 1rem;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: 100;
+  color: tomato;
+}
+
+h2 {
+  font-size: 36px;
+  font-weight: 100;
+}
+
+h3 {
+  font-size: 28px;
+  font-weight: 100;
+}
+
+.banner {
+  text-align: start;
+  margin-bottom: 2rem;
+}
+
+.date {
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+  color: grey;
+  font-size: 1.2rem;
+}
+
+article {
+  margin-bottom: 4rem;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 2rem;
+}
+
+.dropcap {
+  float: left;
+  font-size: 5rem;
+  line-height: 1;
+  padding-right: 0.5rem;
+  font-weight: bold;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 8px;
+}
+
+.post-content {
+  margin-top: 1rem;
+  line-height: 1.6;
+  font-size: 1rem;
+}
+
+.bottom-right {
+  margin-top: 1rem;
+  text-align: right;
+}
+
+.bottom-right a {
+  font-size: 0.9rem;
+  color: tomato;
+}
+
+footer {
+  font-size: 0.9rem;
+  color: grey;
+}
+
+footer ul {
+  margin-bottom: 1rem;
+}
+
+footer p {
+  margin-top: 1rem;
+}
+
+footer a {
+  color: tomato;
+}
