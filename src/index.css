@@ -113,3 +113,7 @@ footer p {
 footer a {
   color: tomato;
 }
+
+a:hover {
+  color: tomato;
+}
