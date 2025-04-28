@@ -2,9 +2,7 @@
 
 ##Preview
 
-```
-![Preview](./public/preview.jpg)
-```
+![Image](https://github.com/user-attachments/assets/bbef2535-ae78-4f5c-9466-6ae56aa7bf22)
 
 ## FILE STRUCTURE
 
